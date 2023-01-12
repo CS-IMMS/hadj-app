@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/hadj-app/static/css/main.bb18b368.css",
+    "main.js": "/hadj-app/static/js/main.431f9c21.js",
+    "static/js/787.3eb64c85.chunk.js": "/hadj-app/static/js/787.3eb64c85.chunk.js",
+    "static/media/signin.svg": "/hadj-app/static/media/signin.454f944b6a4061b0ac29.svg",
+    "static/media/404.svg": "/hadj-app/static/media/404.59d1f9fdba8996c7b96966e44ec51e9a.svg",
+    "index.html": "/hadj-app/index.html",
+    "static/media/light.svg": "/hadj-app/static/media/light.2f59f46cde5a0c4c3deb66bfc45c6045.svg",
+    "main.bb18b368.css.map": "/hadj-app/static/css/main.bb18b368.css.map",
+    "main.431f9c21.js.map": "/hadj-app/static/js/main.431f9c21.js.map",
+    "787.3eb64c85.chunk.js.map": "/hadj-app/static/js/787.3eb64c85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb18b368.css",
+    "static/js/main.431f9c21.js"
+  ]
+}
